@@ -1,7 +1,7 @@
 import { Layers, Star, Briefcase, Building, Globe, Shield } from 'lucide-react';
 
 // Replace with your actual AES Team names
-export const AGENTS = ['David', 'Sarah', 'Emmanuel', 'Chinedu'];
+export const AGENTS = ['Emmanuel', 'Iranlade', 'Kingsley'];
 
 export const TIERS = [
   { id: 't1', name: 'Tier 1', color: 'from-amber-400 to-orange-500', icon: Star, shadow: 'shadow-amber-500/30' },
